@@ -1,4 +1,3 @@
-package Baslangic;
 import java.util.Scanner;
 public class DaireAlan {
     public static void main(String[] args) {
